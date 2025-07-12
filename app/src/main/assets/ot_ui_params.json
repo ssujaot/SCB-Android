@@ -1,0 +1,503 @@
+{
+  "UIConfig": {
+    "globalTheme": {
+      "shouldShowlinkUnderline": true,
+      "linkColor": ""
+    },
+    "pageHeader": {
+      "fontName": "",
+      "fontSize": "",
+      "fontTextStyle": 0,
+      "textColor": ""
+    },
+    "bannerTheme": {
+      "backgroundColor": "",
+      "summary": {
+        "title": {
+         // "typeFaceKey": "ot-font",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textAlignment": 4,
+          "textColor": ""
+        },
+        "description": {
+        //  "typeFaceKey": "ot-font",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textAlignment": 4,
+          "textColor": ""
+        }
+      },
+      "buttons": {
+        "closeButtonColor": "",
+        "closeButton": {
+          "backgroundColor": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": "",
+          "borderColor": "",
+          "borderWidth": "",
+          "borderRadius": ""
+        },
+        "acceptAll": {
+          "backgroundColor": "#000000",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": "",
+          "borderColor": "",
+          "borderWidth": "4",
+          "borderRadius": "12"
+        },
+        "rejectAll": {
+          "backgroundColor": "#FFFFFF",
+          "typeFaceKey": "ot-font",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": "#000000",
+          "borderColor": "#000000",
+          "borderWidth": "4",
+          "borderRadius": "12"
+        },
+        "showPreferences": {
+          "backgroundColor": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": "",
+          "borderColor": "",
+          "borderWidth": "4",
+          "borderRadius": "12"
+        }
+      },
+      "links": {
+        "policyLink": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        },
+        "vendorList": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textAlignment": 4,
+          "textColor": ""
+        }
+      }
+    },
+    "preferenceCenterTheme": {
+      "backgroundColor": "",
+      "lineBreakColor": "",
+      "toggleThumbColorOn": "",
+      "toggleThumbColorOff": "",
+      "toggleTrackColor": "",
+      "rightChevronColor": "",
+      "showLogoOnPC": true,
+      "summary": {
+        "title": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        },
+        "description": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textAlignment": 5,
+          "textColor": ""
+        }
+      },
+      "purposesTitle": {
+        "typeFaceKey": "",
+        "fontName": "",
+        "fontSize": "",
+        "fontTextStyle": 0,
+        "textColor": ""
+      },
+      "purposesAlwaysActiveStatus": {
+        "typeFaceKey": "",
+        "fontName": "",
+        "fontSize": "",
+        "fontTextStyle": 0,
+        "textColor": ""
+      },
+      "buttons": {
+        "closeButtonColor": "",
+        "closeButton": {
+          "backgroundColor": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": "",
+          "borderColor": "",
+          "borderWidth": "",
+          "borderRadius": ""
+        },
+        "backButtonColor": "",
+        "acceptAll": {
+          "backgroundColor": "",
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": "",
+          "borderColor": "",
+          "borderWidth": "4",
+          "borderRadius": "12"
+        },
+        "rejectAll": {
+          "backgroundColor": "#FFFFFF",
+          "typeFaceKey": "",
+          "fontName": "sans-serif",
+          "fontSize": "",
+          "fontTextStyle": 1,
+          "textColor": "#000000",
+          "borderColor": "#000000",
+          "borderWidth": "4",
+          "borderRadius": "12"
+        },
+        "confirmMyChoice": {
+          "backgroundColor": "",
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": "",
+          "borderColor": "",
+          "borderWidth": "4",
+          "borderRadius": "12"
+        }
+      },
+      "links": {
+        "policyLink": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        },
+        "vendorList": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        }
+      }
+    },
+    "purposeDetailsTheme": {
+      "backgroundColor": "",
+      "lineBreakColor": "",
+      "toggleThumbColorOn": "",
+      "toggleThumbColorOff": "",
+      "toggleTrackColor": "",
+      "backButtonColor": "",
+      "groupSummary": {
+        "title": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        },
+        "description": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": "",
+          "textAlignment": 5
+        }
+      },
+      "consentTitle": {
+        "typeFaceKey": "",
+        "fontName": "",
+        "fontSize": "",
+        "fontTextStyle": 0,
+        "textColor": ""
+      },
+      "legitInterestTitle": {
+        "typeFaceKey": "",
+        "fontName": "",
+        "fontSize": "",
+        "fontTextStyle": 0,
+        "textColor": ""
+      },
+      "purposesAlwaysActiveStatus": {
+        "typeFaceKey": "",
+        "fontName": "",
+        "fontSize": "",
+        "fontTextStyle": 0,
+        "textColor": ""
+      },
+      "links": {
+        "sdkList": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        },
+        "vendorList": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        },
+        "fullLegalText": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        }
+      }
+    },
+    "vendorListTheme": {
+      "backgroundColor": "",
+      "lineBreakColor": "",
+      "toggleThumbColorOn": "",
+      "toggleThumbColorOff": "",
+      "toggleTrackColor": "",
+      "filterOnColor": "",
+      "filterOffColor": "",
+      "filterSelectionColor": "",
+      "rightChevronColor": "",
+      "searchBar": {
+        "textColor": "",
+        "placeholderTextColor": "",
+        "backgroundColor": "",
+        "iconColor": "",
+        "borderColor": "",
+        "clearButtonColor": "",
+        "borderWidth": "",
+        "borderRadius": ""
+      },
+      "filterNavText": {
+        "typeFaceKey": "",
+        "fontName": "",
+        "fontSize": "",
+        "fontTextStyle": 0,
+        "textColor": ""
+      },
+      "title": {
+        "typeFaceKey": "",
+        "fontName": "",
+        "fontSize": "",
+        "fontTextStyle": 0,
+        "textColor": ""
+      },
+      "allowAllToggleText": {
+        "typeFaceKey": "",
+        "fontName": "",
+        "fontSize": "",
+        "fontTextStyle": 0,
+        "textColor": ""
+      },
+      "filterItemTitle": {
+        "typeFaceKey": "",
+        "fontName": "",
+        "fontSize": "",
+        "fontTextStyle": 0,
+        "textColor": ""
+      },
+      "buttons": {
+        "backButtonColor": "",
+        "confirmMyChoices": {
+          "backgroundColor": "",
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": "",
+          "borderColor": "",
+          "borderWidth": "",
+          "borderRadius": ""
+        },
+        "applyFilter": {
+          "backgroundColor": "",
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": "",
+          "borderColor": "",
+          "borderWidth": "",
+          "borderRadius": ""
+        }
+      }
+    },
+    "vendorDetailsTheme": {
+      "backgroundColor": "",
+      "toggleThumbColorOn": "",
+      "toggleThumbColorOff": "",
+      "toggleTrackColor": "",
+      "backButtonColor": "",
+      "title": {
+        "typeFaceKey": "",
+        "fontName": "",
+        "fontSize": "",
+        "fontTextStyle": 0,
+        "textColor": ""
+      },
+      "detailsSummary": {
+        "title": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        },
+        "description": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        }
+      },
+      "consentTitle": {
+        "typeFaceKey": "",
+        "fontName": "",
+        "fontSize": "",
+        "fontTextStyle": 0,
+        "textColor": ""
+      },
+      "legitInterestTitle": {
+        "typeFaceKey": "",
+        "fontName": "",
+        "fontSize": "",
+        "fontTextStyle": 0,
+        "textColor": ""
+      },
+      "links": {
+        "privacyNotice": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        }
+      }
+    },
+    "sdkListTheme": {
+      "backgroundColor": "",
+      "lineBreakColor": "",
+      "filterOnColor": "",
+      "filterOffColor": "",
+      "searchBar": {
+        "textColor": "",
+        "placeholderTextColor": "",
+        "backgroundColor": "",
+        "iconColor": "",
+        "borderColor": "",
+        "clearButtonColor": "",
+        "borderWidth": "",
+        "borderRadius": ""
+      },
+      "summary": {
+        "title": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        },
+        "description": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        }
+      },
+      "filterList": {
+        "selectionColor": "",
+        "navItem": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        },
+        "sdkItem": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": ""
+        },
+        "buttons": {
+          "backButtonColor": "",
+          "applyFilter": {
+            "backgroundColor": "",
+            "typeFaceKey": "",
+            "fontName": "",
+            "fontSize": "",
+            "fontTextStyle": 0,
+            "textColor": "",
+            "borderColor": "",
+            "borderWidth": "",
+            "borderRadius": ""
+          }
+        }
+      }
+    },
+    "permissionConsentTheme": {
+      "backgroundColor": "",
+      "consentSummaryTheme": {
+        "title": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textAlignment": 0,
+          "textColor": ""
+        },
+        "description": {
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textAlignment": 0,
+          "textColor": ""
+        }
+      },
+      "buttons": {
+        "giveConsent": {
+          "backgroundColor": "",
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": "",
+          "borderColor": "",
+          "borderWidth": "",
+          "borderRadius": ""
+        },
+        "cancelConsent": {
+          "backgroundColor": "",
+          "typeFaceKey": "",
+          "fontName": "",
+          "fontSize": "",
+          "fontTextStyle": 0,
+          "textColor": "",
+          "borderColor": "",
+          "borderWidth": "",
+          "borderRadius": ""
+        }
+      }
+    }
+  }
+}
